@@ -1,16 +1,13 @@
-## Hi there 👋
+## Savannah Wilcox
+Healthcare Management student at UT Dallas | Healthcare Analytics Intern
 
-<!--
-**Savannahwilcox/Savannahwilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building analytics tools for a medical aesthetics clinic using Python, SQL, and Tableau!
 
-Here are some ideas to get you started:
+**Skills:** Python · pandas · SQL · SQLite · Tableau · Zenoti · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Projects:** 
+**What I'm working on:**
+- Membership churn, patient retention, and provider performance analyses
+- Automated monthly reporting from Zenoti exports
+
+**Interests:** Healthcare data analytics · Revenue cycle management · EHR implementation
