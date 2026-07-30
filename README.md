@@ -1,17 +1,30 @@
-## Savannah Wilcox
+# Savannah Wilcox
 
 Healthcare Management student at UT Dallas | Healthcare Analytics Intern
 
-Building analytics tools for a medical aesthetics clinic using Python, SQL, and Tableau.
+Building analytics tools and machine learning models using Python, SQL, and Tableau.
 
-**Skills:** Python · pandas · SQL · SQLite · Tableau · Excel · Zenoti · Git
+**Skills:** Python · pandas · SQL · SQLite · Tableau · Excel · Zenoti · Git · scikit-learn
 
-**What I'm working on:**
-- Membership churn, patient retention, and provider performance analyses
-- Automated monthly reporting from Zenoti exports
-- [Hospital-Readmissions](https://github.com/Savannahwilcox/Hospital-Readmissions): does hospital ownership predict readmission performance
-- [flight-price-predictor](https://github.com/Savannahwilcox/flight-price-predictor): automated price collection and prediction pipeline
+## What I'm working on:
 
-**Interests:** Healthcare data analytics · Revenue cycle management · EHR implementation
+- **4Ever Young Analytics** — Building an analytics suite for a medical aesthetics clinic **IN PROGRESS**
+  - Patient conversion prediction model 
+  - Rebooking interval analysis across 7 service categories
+  - Zenoti KPI reporting and financial reconciliation
+  
+- **Credit Card Fraud Detection** — Comparing unsupervised vs supervised fraud detection **IN PROGRESS**
+  - Anomaly detection (Isolation Forest): 16.9% detection rate
+  - Classification model (Random Forest): 76% recall, 0.967 ROC-AUC
+  - Analysis of 284K transactions with imbalanced data challenges
 
-[savannahwilcox.github.io](https://savannahwilcox.github.io/) · [LinkedIn](https://www.linkedin.com/in/savannahwilcox/)
+- **Flight Price Predictor** — Machine learning pipeline predicting flight price movements **COMPLETE**
+  - Random Forest classifier with 100% test accuracy on sample data
+  - End-to-end pipeline: data collection → model training → predictions → visualization
+  - Demonstrates data science workflow 
+
+- **Hospital Readmissions Analysis** — Predicting readmission risk using hospital ownership data **COMPLETE**
+
+**Interests:** Healthcare data analytics · Revenue cycle management · EHR implementation · Machine learning
+
+[savannahwilcox.github.io](https://savannahwilcox.github.io) · [LinkedIn](https://linkedin.com/in/savannahwilcox)
