@@ -1,149 +1,61 @@
 # Savannah Wilcox
 
-Healthcare Management student at The University of Texas at Dallas focused on healthcare analytics, business intelligence, and operations improvement.
-
-I build analytics projects using Python, SQL, Power BI, Tableau, and machine learning to explore real-world healthcare and business problems.
+Healthcare Management student at UT Dallas focused on healthcare analytics. I build projects with public health datasets, mostly CMS and CDC data, to practice end-to-end analysis: cleaning, SQL, Python, and dashboards.
 
 ---
 
 ## Stack
 
 **Languages & Databases**
-
-- Python
 - SQL
+- PostgreSQL
+- Python
 - SQLite
 
-**Data Science**
-
+**Data Analysis**
 - pandas
-- NumPy
-- scikit-learn
+- matplotlib
+- scipy
 
-**Business Intelligence**
-
-- Power BI
+**Dashboards**
 - Tableau
+- Streamlit
 - Excel
 
-**Tools**
-
-- Git
-- GitHub
-- Zenoti
-
 ---
 
-## Featured Repositories
+## Featured Projects
 
-### 4Ever Young Analytics Platform *(In Progress)*
+### [Xylazine ("Tranq") in US Overdose Deaths](https://github.com/Savannahwilcox/xylazine-spread-analysis)
 
-A real-world analytics platform for a medical aesthetics clinic focused on operational reporting, financial analytics, and business intelligence.
+Analysis of CDC SUDORS data tracking xylazine's spread through the fentanyl supply, 2020-2024. Six findings: a national trend (more than tripled since 2020), a geographic spread timeline, current state-by-state severity, an acceleration analysis (Delaware went from 0.7% to 38.2% in four years), a tested correlation (timing of first detection does not predict current severity), and regional divergence (the Northeast leads by a wide margin, the West is barely affected).
 
-**Highlights**
+### [Hospital Readmissions by Ownership Type](https://github.com/Savannahwilcox/Hospital-Readmissions-)
 
-- Patient conversion modeling
-- Provider KPI dashboards
-- Rebooking interval analysis
-- Financial reconciliation
-- Revenue reporting
-- Inventory analytics
+Analysis of CMS Hospital Readmissions Reduction Program data covering 2,616 hospitals. For-profit hospitals average higher excess readmission ratios than nonprofits, and the gap holds after controlling for hospital size.
 
-**Repository:** https://github.com/Savannahwilcox/4Ever_Young_Analytics
+### [Medicare Claims Analytics](https://github.com/Savannahwilcox/healthcare-claims-sql-analysis)
 
----
+PostgreSQL and Tableau analysis of CMS synthetic Medicare beneficiary, inpatient, and outpatient claims data. Includes relational database design, SQL analysis, and two interactive dashboards covering 116,352 beneficiaries and $845.5 million in payments.
 
-### Hospital Operations Analytics Dashboard *(In Progress)*
+### [Hospital Operations & Quality Analytics](https://github.com/Savannahwilcox/hospital-operations-analytics)
 
-Interactive Power BI dashboards analyzing publicly available U.S. hospital performance data.
+PostgreSQL and Tableau analysis of CMS Hospital Compare data: hospital characteristics, patient experience (HCAHPS), and emergency department quality measures. Four dashboards, including a Texas-specific county-level benchmark.
 
-**Highlights**
+### [Healthcare Analytics Dashboard](https://github.com/Savannahwilcox/healthcare-analytics-dashboard)
 
-- Emergency department utilization
-- Hospital ownership comparisons
-- Readmission analysis
-- Geographic performance trends
-- Executive dashboards
+Analysis of hospital-acquired infection prevention performance across 52 states using CDC 2023 data. Four-sheet Tableau dashboard covering standardized infection ratios across 7 infection types.
 
-**Repository:** https://github.com/Savannahwilcox/hospital-operations-powerbi
+### [US Drug Overdose Mortality Trends](https://github.com/Savannahwilcox/overdose-trends)
 
----
+Analysis of CDC provisional overdose death data, 2015-2026. Tracks the recent decline in overdose deaths and how it varies by drug type, state, and region, including a per-capita comparison across states.
 
-### State of U.S. Hospitals Research *(In Progress)*
+### [County-Level Public Health Explorer](https://github.com/Savannahwilcox/health-dashboard)
 
-A research-driven analytics project investigating operational trends across U.S. hospitals through reproducible data pipelines and documentation.
-
-**Highlights**
-
-- Literature review
-- SQL analysis
-- Research database
-- Public healthcare datasets
-- Statistical analysis
-
-**Repository:** https://github.com/Savannahwilcox/state-of-us-hospitals
-
----
-
-### Credit Card Fraud Detection
-
-Machine learning comparison of supervised and unsupervised fraud detection techniques using 284,807 financial transactions.
-
-**Highlights**
-
-- Random Forest classification
-- Isolation Forest anomaly detection
-- ROC-AUC: 0.967
-- Imbalanced dataset techniques
-
-**Repository:** https://github.com/Savannahwilcox/credit-card-fraud-detection
-
----
-
-### Drug Reaction Analysis
-
-Analysis of FDA adverse event data using Python to identify reporting trends and medication safety insights.
-
-**Repository:** https://github.com/Savannahwilcox/Drug-Reaction_Analysis
-
----
-
-### Flight Price Predictor
-
-End-to-end machine learning pipeline for predicting airline ticket prices.
-
-**Highlights**
-
-- Data collection
-- Feature engineering
-- Model training
-- Prediction pipeline
-
-**Repository:** https://github.com/Savannahwilcox/flight-price-predictor
-
----
-
-## Currently Learning
-
-- Healthcare analytics
-- Power BI
-- Advanced SQL
-- Machine learning
-- Healthcare operations
-- Data engineering fundamentals
-
----
-
-## Areas of Interest
-
-- Healthcare Analytics
-- Business Intelligence
-- Healthcare Operations
-- Predictive Analytics
-- Revenue Cycle Management
-- Healthcare Information Systems
+Interactive Streamlit dashboard exploring how food insecurity, insurance access, obesity, and smoking relate to diabetes prevalence across roughly 3,000 US counties. Includes a multiple regression testing which factor is the strongest independent predictor.
 
 ---
 
 ## Links
-[savannahwilcox.github.io](https://savannahwilcox.github.io) · [LinkedIn](https://linkedin.com/in/savannahwilcox)
+
+[Portfolio](https://savannahwilcox.github.io) · [LinkedIn](https://linkedin.com/in/savannahwilcox)
