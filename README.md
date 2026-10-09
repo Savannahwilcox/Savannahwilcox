@@ -58,4 +58,4 @@ Interactive Streamlit dashboard exploring how food insecurity, insurance access,
 
 ## Links
 
-[Portfolio](https://savannahwilcox.github.io) · [LinkedIn](https://linkedin.com/in/savannahwilcox)
+ [LinkedIn](https://linkedin.com/in/savannahwilcox)
