@@ -19,7 +19,6 @@ Healthcare Management student at UT Dallas focused on healthcare analytics. I bu
 
 **Dashboards**
 - Tableau
-- Streamlit
 - Excel
 
 ---
@@ -30,19 +29,11 @@ Healthcare Management student at UT Dallas focused on healthcare analytics. I bu
 
 Analysis of CDC SUDORS data tracking xylazine's spread through the fentanyl supply, 2020-2024. Six findings: a national trend (more than tripled since 2020), a geographic spread timeline, current state-by-state severity, an acceleration analysis (Delaware went from 0.7% to 38.2% in four years), a tested correlation (timing of first detection does not predict current severity), and regional divergence (the Northeast leads by a wide margin, the West is barely affected).
 
-### [Hospital Readmissions by Ownership Type](https://github.com/Savannahwilcox/Hospital-Readmissions-)
-
-Analysis of CMS Hospital Readmissions Reduction Program data covering 2,616 hospitals. For-profit hospitals average higher excess readmission ratios than nonprofits, and the gap holds after controlling for hospital size.
-
-### [Medicare Claims Analytics](https://github.com/Savannahwilcox/healthcare-claims-sql-analysis)
-
-PostgreSQL and Tableau analysis of CMS synthetic Medicare beneficiary, inpatient, and outpatient claims data. Includes relational database design, SQL analysis, and two interactive dashboards covering 116,352 beneficiaries and $845.5 million in payments.
-
 ### [Hospital Operations & Quality Analytics](https://github.com/Savannahwilcox/hospital-operations-analytics)
 
 PostgreSQL and Tableau analysis of CMS Hospital Compare data: hospital characteristics, patient experience (HCAHPS), and emergency department quality measures. Four dashboards, including a Texas-specific county-level benchmark.
 
-### [Healthcare Analytics Dashboard](https://github.com/Savannahwilcox/healthcare-analytics-dashboard)
+### [Hospital-Acquired Infection Dashboard](https://github.com/Savannahwilcox/healthcare-analytics-dashboard)
 
 Analysis of hospital-acquired infection prevention performance across 52 states using CDC 2023 data. Four-sheet Tableau dashboard covering standardized infection ratios across 7 infection types.
 
